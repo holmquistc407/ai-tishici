@@ -22,8 +22,6 @@
 - **关键词**：`AI中文提示词`、`ChatGPT中文提示词`、`Prompt圣经`  
 - **亮点**：由 K-Render 整理的中文提示词秘籍，囊括 ChatGPT 相关用语与技巧。  
 
-![image](https://github.com/user-attachments/assets/3197133e-4e99-465d-b058-bd51fe515800)
-
 ---
 
 ## 2. ChatGPT 引导语与提示词
